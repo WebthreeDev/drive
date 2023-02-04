@@ -3,26 +3,26 @@
 	font-style: normal;
 	font-weight: 900;
 	font-display: auto;
-	src: url('https://infinitedrive.net/wp-content/uploads/2022/05/Akrobat-Black.woff2') format('woff2'),
-		url('https://infinitedrive.net/wp-content/uploads/2022/05/Akrobat-Black.woff') format('woff'),
-		url('https://infinitedrive.net/wp-content/uploads/2022/05/Akrobat-Black.ttf') format('truetype');
+	src: url('/wp-content/uploads/2022/05/Akrobat-Black.woff2') format('woff2'),
+		url('/wp-content/uploads/2022/05/Akrobat-Black.woff') format('woff'),
+		url('/wp-content/uploads/2022/05/Akrobat-Black.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Akrobat';
 	font-style: normal;
 	font-weight: bold;
 	font-display: auto;
-	src: url('https://infinitedrive.net/wp-content/uploads/2022/05/Akrobat-Bold.woff2') format('woff2'),
-		url('https://infinitedrive.net/wp-content/uploads/2022/05/Akrobat-Bold.woff') format('woff'),
-		url('https://infinitedrive.net/wp-content/uploads/2022/05/Akrobat-Bold.ttf') format('truetype');
+	src: url('/wp-content/uploads/2022/05/Akrobat-Bold.woff2') format('woff2'),
+		url('/wp-content/uploads/2022/05/Akrobat-Bold.woff') format('woff'),
+		url('/wp-content/uploads/2022/05/Akrobat-Bold.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Akrobat';
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('https://infinitedrive.net/wp-content/uploads/2022/05/Akrobat-Regular.woff2') format('woff2'),
-		url('https://infinitedrive.net/wp-content/uploads/2022/05/Akrobat-Regular.woff') format('woff'),
-		url('https://infinitedrive.net/wp-content/uploads/2022/05/Akrobat-Regular.ttf') format('truetype');
+	src: url('/wp-content/uploads/2022/05/Akrobat-Regular.woff2') format('woff2'),
+		url('/wp-content/uploads/2022/05/Akrobat-Regular.woff') format('woff'),
+		url('/wp-content/uploads/2022/05/Akrobat-Regular.ttf') format('truetype');
 }
 /* End Custom Fonts CSS */
